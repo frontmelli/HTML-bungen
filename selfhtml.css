@@ -1,0 +1,22 @@
+html, body {
+    font-family: 'Montez', cursive;
+}
+h1 {
+	color: #ff3e91;
+}
+h2 {
+	color:yellow;
+}
+a.green{
+	color: #89ffd2;
+}
+div.green {
+	color: chartreuse;
+}
+.blue {
+    color: blue;
+}
+.testbild {
+    width: 150px;
+    height: 150px;
+}
